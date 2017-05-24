@@ -54,6 +54,6 @@ n=Nodo_nario('',[Nodo_nario('d',[Nodo_nario('da',[Nodo_nario('dal',[Nodo_nario('
                                   Nodo_nario('sue',[Nodo_nario('suegr',[Nodo_nario('suegra',[]),Nodo_nario('suegras',[])]),
                                                     Nodo_nario('suegr',[Nodo_nario('suegro',[])])])])])])
 
-cadena = raw_input("Introduce una cadena de texto:")
+cadena = raw_input("Introduce la cadena de texto:")
 b_nod(n,cadena)
 
